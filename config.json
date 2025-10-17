@@ -85,5 +85,13 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
-  }
+    // ...更多站点    
+  },
+  "custom_category": [  
+    {
+      "name": "动漫",
+      "type": "animation",                
+      "query": "华语"
+    }
+  ]
 }
